@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">I'm Vinod Kumar GR<br><br>- 🔭 I’m recently graduated<br>- 📚 I'm a Data Science Enthusiast<br>- ⚡ Reach me - vks7483437@gmail.com</p>
+<p align="left">I'm Vinod Kumar GR<br><br>- 🔭 I’m recently graduated<br>- 📚 I'm an Aspiring Data Scientist<br>- ⚡ Reach me - vks7483437@gmail.com</p>
 
 ###
 
